@@ -11,7 +11,7 @@ export class CommentBox extends React.Component{
     render(){
 
         return (
-            <div>こんにちは！今日はいい天気ですね。</div>
+            <div>こんにちは！aaaaaaaaaaaa今日はいい天気ですね。</div>
         );
     }
 }
